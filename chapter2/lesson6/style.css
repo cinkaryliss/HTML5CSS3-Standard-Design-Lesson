@@ -19,6 +19,12 @@ a:visited{
 }
 
 /*ページタイトルの設定*/
+h1{
+  color:#6fbb9a;
+  text-align:center;
+  font-size:250%
+}
+
 /*大見出しの設定*/
 /*情報データ見出しの設定*/
 /*リード文領域の設定*/
