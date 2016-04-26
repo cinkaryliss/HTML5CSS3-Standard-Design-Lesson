@@ -1,7 +1,23 @@
 @charset "utf-8";
 
 /*ウィンドウ背景色の設定*/
+body{
+  background-color:#fbf9cc;
+}
+
 /*リンク色の設定*/
+a{
+  color:#df4839;
+}
+
+a:hover{
+  color:#ff705b;
+}
+
+a:visited{
+  color:rgb(101, 158, 217);
+}
+
 /*ページタイトルの設定*/
 /*大見出しの設定*/
 /*情報データ見出しの設定*/
