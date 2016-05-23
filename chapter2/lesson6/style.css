@@ -46,6 +46,10 @@ dt{
   padding: 15px;
   text-align: center;
 }
+
 /*「もっと見る」リンクの設定*/
+.more{
+  text-align: right;
+}
 /*毛皮・性別情報（共通）*/
 /*性別による色分け*/
