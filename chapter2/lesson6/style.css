@@ -2,39 +2,50 @@
 
 /*ウィンドウ背景色の設定*/
 body{
-  background-color:#fbf9cc;
+  background-color: #fbf9cc;
 }
 
 /*リンク色の設定*/
 a{
-  color:#df4839;
+  color: #df4839;
 }
 
 a:hover{
-  color:#ff705b;
+  color: #ff705b;
 }
 
 a:visited{
-  color:rgb(101, 158, 217);
+  color: rgb(101, 158, 217);
 }
 
 /*ページタイトルの設定*/
 h1{
-  color:#6fbb9a;
-  text-align:center;
-  font-size:250%
+  color: #6fbb9a;
+  text-align: center;
+  font-size: 250%
 }
 
 /*大見出しの設定*/
 h2{
-  color:#6fbb9a;
-  border:#94c8b1 1px dotted;
-  border-left:#d0e35b 10px solid;
-  padding:5px 20px;
-  margin-bottom 0;
+  color: #6fbb9a;
+  border: #94c8b1 1px dotted;
+  border-left: #d0e35b 10px solid;
+  padding: 5px 20px;
+  margin-bottom: 0;
 }
+
 /*情報データ見出しの設定*/
+dt{
+  font-weight: bold;
+}
+
 /*リード文領域の設定*/
+#lead{
+  border-top: #6fbb9a 1px dotted;
+  border-bottom: #6fbb9a 1px dotted;
+  padding: 15px;
+  text-align: center;
+}
 /*「もっと見る」リンクの設定*/
 /*毛皮・性別情報（共通）*/
 /*性別による色分け*/
