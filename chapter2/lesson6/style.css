@@ -25,6 +25,10 @@ h1{
   font-size: 250%
 }
 
+h1 span{
+  color: #d0e35b;
+}
+
 /*大見出しの設定*/
 h2{
   color: #6fbb9a;
@@ -52,4 +56,15 @@ dt{
   text-align: right;
 }
 /*毛皮・性別情報（共通）*/
+.cat-type{
+  font-size: 80%;
+  font-weight: normal;
+}
 /*性別による色分け*/
+.male{
+  color: #2793a7;
+}
+
+.female{
+  color: #df972f;
+}
